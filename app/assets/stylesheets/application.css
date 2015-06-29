@@ -16,3 +16,20 @@
 .complete {
   text-decoration: line-through;
 }
+
+form.form-inline {
+  display: inline;
+}
+
+ul.task-list li {
+  margin: 5px 0;
+}
+
+body > ul > li > span {
+  display: inline-block;
+  min-width: 150px;
+}
+
+.task-list {
+  list-style-type: none;
+}
